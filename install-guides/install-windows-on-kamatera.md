@@ -14,7 +14,7 @@ Fill Host, Username, Password then click login
 
 After login then click New Terminal Console
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Terminal windows appears, we leave it there and get command from tinyinstaller to run
 
@@ -48,7 +48,7 @@ Paste command to Terminal Console in previous step then press enter to run
 
 Input the corresponding number then press enter. E.g. I choose Windows 2016 then input 3
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Confirm installation process
 

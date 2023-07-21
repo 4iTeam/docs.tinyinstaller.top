@@ -28,7 +28,7 @@ Login to Digital Ocean then click Create -> Droplets
 
 Choose location and server size for your needed. On Image make sure you select **Ubuntu** one
 
-<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Set the initialization script
 

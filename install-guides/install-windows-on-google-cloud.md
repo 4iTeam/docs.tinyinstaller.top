@@ -32,22 +32,21 @@ Choose location and server size for your needed. Make sure **Disk Size** is enou
 
 ### Set the initialization script
 
-Expand Advanced Options and Check Add Initialization scripts, then paste init script from TinyInstaller here
+Expand Advanced Options- > Management, then paste init script from TinyInstaller into Automation - Startup script
 
-<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-### Create Droplet
+### Create VM
 
-Select Quantity you want to create, make sure that not exceeded number of max Install Process allowed in your package. \
-_Example: In this picture below we have 20 free process then we can create 20 instances_
+Finally click CREATE button to create VM
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-### Droplet created
+### Instance created
 
 After droplet created we go back to TinyInstaller -> My Instances to check install status
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 ## Step 3 - Check install status
 
