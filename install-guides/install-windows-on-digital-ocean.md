@@ -8,7 +8,7 @@ You need to have license key first, if don't have let's buy one
 
 Go to https://tinyinstaller.top/login then enter your key
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Login</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Login</p></figcaption></figure>
 
 #### Get Init Script
 
@@ -28,13 +28,13 @@ Login to Digital Ocean then click Create -> Droplets
 
 Choose location and server size for your needed. On Image make sure you select **Ubuntu** one
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Set the initialization script
 
 Expand Advanced Options and Check Add Initialization scripts, then paste init script from TinyInstaller here
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Create Droplet
 
@@ -63,6 +63,6 @@ You can view status detail by click the link on status column
 
 When installation done, you can copy it and access to RDP
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 
 That's all, you now connect to windows via RDP. Everything is processed automatically.

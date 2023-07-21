@@ -8,7 +8,7 @@ You need to have license key first, if don't have let's buy one
 
 Go to https://tinyinstaller.top/login then enter your key
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Login</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Login</p></figcaption></figure>
 
 #### Get Init Script
 
@@ -20,7 +20,7 @@ Then select Os and check Init Script
 
 #### Login to Vultr Account
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Deploy Server
 
@@ -38,11 +38,11 @@ Select Qty then click Deploy Now
 
 Note: the number of servers should not exceed Max install process on your TinyInstaller's key
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Wait for instances
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Step 3 - Check install status
 
@@ -60,7 +60,7 @@ When installation done, you can copy it and access to RDP
 
 Open Remote Desktop Connection app
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 Copy and input IP address need to copy port as well then click connect
 

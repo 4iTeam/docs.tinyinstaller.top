@@ -16,7 +16,7 @@ You need to have license key first, if don't have let's buy one
 
 Go to https://tinyinstaller.top/login then enter your key
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Login</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Login</p></figcaption></figure>
 
 #### Get Init Script
 
@@ -28,7 +28,7 @@ Then select Os and check Init Script
 
 Goto StackScripts and click Create Stack Script
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 Enter script (copy from Step 1) here, make sure you select Debian 11 in Target Images
 
@@ -44,11 +44,11 @@ In Linodes/Create screen select stack scripts tab then choose the stack which yo
 
 Click Create Linode to create
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
 After instance is running then go back to TinyInstaller -> My Instances to check install status
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Step 4 - Check install status
 
@@ -64,7 +64,7 @@ After install status changed to "Installed" you need to go to Linode and update 
 
 Change Boot Setting to Direct Disk then Save Changes
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Reboot instance
 
@@ -72,5 +72,5 @@ Reboot instance
 
 Wait it boots up and connect. It may take 10-15 min, please be patient. When you see Status changed to Done it's time to connect via RDP
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
