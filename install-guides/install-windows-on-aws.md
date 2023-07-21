@@ -26,7 +26,7 @@ Login to AWS EC2 then click Launch instances
 
 ### Choose Location, Configration
 
-Choose location and server size for your needed. Make sure you select **Ubuntu** one and increase **Storage.** Do **not** choose ARM cpu and note that T3 cpu compatible with T3 images only, Other cpu like T2, C4 should use normal images
+Choose location and server size for your needed. Make sure you select **Ubuntu** one and increase **Storage.** Do **not** choose ARM cpu and note that T3, M5 cpu compatible with T3 images only, Other cpu like T2, C4 should use normal images
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
