@@ -26,7 +26,7 @@ Login to AWS EC2 then click Launch instances
 
 ### Choose Location, Configration
 
-Choose location and server size for your needed. Make sure you select **Ubuntu** one and increase **Storage.** Do **not** choose ARM cpu,&#x20;
+Choose location and server size for your needed. Make sure you select **Ubuntu** one and increase **Storage.** Do **not** choose ARM cpu and note that T3 cpu compatible with T3 images only, Other cpu like T2, C4 should use normal images
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
@@ -61,8 +61,8 @@ You can view status detail by click the link on status column
 
 ## Step 4 - Access to Windows
 
-When installation done, you can copy it and access to RDP
+When installation done, you can copy IP address (include port), user/pass and access to RDP
 
-<figure><img src="../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 That's all, you now connect to windows via RDP. Everything is processed automatically.

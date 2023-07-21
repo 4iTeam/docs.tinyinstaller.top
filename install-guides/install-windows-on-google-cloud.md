@@ -40,7 +40,7 @@ Expand Advanced Options- > Management, then paste init script from TinyInstaller
 
 Finally click CREATE button to create VM
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Instance created
 
