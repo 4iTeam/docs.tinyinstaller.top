@@ -16,13 +16,13 @@ Then select Os and check Init Script
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Get Init script</p></figcaption></figure>
 
-## Step 2 - Create Windows VPS on Digital Ocean with Init Script
+## Step 2 - Create Windows VPS on AWS with Init Script
 
-### Create new Droplet
+### Create new Instance
 
-Login to Digital Ocean then click Create -> Droplets
+Login to AWS EC2 then click Launch instances
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Select Create -> Droplets</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Choose Location, Configration
 

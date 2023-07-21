@@ -14,7 +14,7 @@ Fill Host, Username, Password then click login
 
 After login then click New Terminal Console
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Terminal windows appears, we leave it there and get command from tinyinstaller to run
 

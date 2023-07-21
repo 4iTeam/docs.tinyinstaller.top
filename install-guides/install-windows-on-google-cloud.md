@@ -34,7 +34,7 @@ Choose location and server size for your needed. Make sure **Disk Size** is enou
 
 Expand Advanced Options- > Management, then paste init script from TinyInstaller into Automation - Startup script
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Create VM
 
