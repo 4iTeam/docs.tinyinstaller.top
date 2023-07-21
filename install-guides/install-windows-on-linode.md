@@ -54,7 +54,7 @@ After instance is running then go back to TinyInstaller -> My Instances to check
 
 Go to [My Instances](https://tinyinstaller.top/my-instances) you may check status there
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Step 5 - Update Direct Disk (important)
 

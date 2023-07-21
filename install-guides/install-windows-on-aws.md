@@ -57,7 +57,7 @@ You can monitor install processes at [My Instances](https://tinyinstaller.top/my
 
 You can view status detail by click the link on status column
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Step 4 - Access to Windows
 

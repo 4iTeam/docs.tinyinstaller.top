@@ -20,15 +20,15 @@ Then select Os and check Init Script
 
 ### Create new VM Instance
 
-Login to Digital Ocean then click Create -> Droplets
+Login to Google Cloud then click CREATE INSTANCE
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Select Create -> Droplets</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 ### Choose Location, Configration
 
-Choose location and server size for your needed. On Image make sure you select **Ubuntu** one
+Choose location and server size for your needed. Make sure **Disk Size** is enough to run Windows
 
-<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ### Set the initialization script
 
@@ -57,7 +57,7 @@ You can monitor install processes at [My Instances](https://tinyinstaller.top/my
 
 You can view status detail by click the link on status column
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Step 4 - Access to Windows
 
