@@ -40,19 +40,19 @@ Expand Advanced Options- > Management, then paste init script from TinyInstaller
 
 Finally click CREATE button to create VM
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 ### Instance created
 
-After droplet created we go back to TinyInstaller -> My Instances to check install status
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption><p>Instance created</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+After instance created we go back to TinyInstaller -> My Instances to check install status
 
 ## Step 3 - Check install status
 
 You can monitor install processes at [My Instances](https://tinyinstaller.top/my-instances)
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can view status detail by click the link on status column
 

@@ -53,7 +53,7 @@ After droplet created we go back to TinyInstaller -> My Instances to check insta
 
 You can monitor install processes at [My Instances](https://tinyinstaller.top/my-instances)
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can view status detail by click the link on status column
 
