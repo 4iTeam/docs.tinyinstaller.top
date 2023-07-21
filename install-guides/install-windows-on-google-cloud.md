@@ -16,9 +16,9 @@ Then select Os and check Init Script
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Get Init script</p></figcaption></figure>
 
-## Step 2 - Create Windows VPS on Digital Ocean with Init Script
+## Step 2 - Create Windows VPS on Google Cloud with Init Script
 
-### Create new Droplet
+### Create new VM Instance
 
 Login to Digital Ocean then click Create -> Droplets
 
