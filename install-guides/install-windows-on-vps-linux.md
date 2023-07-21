@@ -66,7 +66,7 @@ SSH terminal will be disconnected and we track progress on website by open Track
 
 Track installation progress and get RDP access in website
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Click Access information to see RDP password</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (2).png" alt=""><figcaption><p>Click Access information to see RDP password</p></figcaption></figure>
 
 ## Step 3: Connect to windows
 

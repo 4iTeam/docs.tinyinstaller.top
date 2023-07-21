@@ -26,22 +26,22 @@ Login to AWS EC2 then click Launch instances
 
 ### Choose Location, Configration
 
-Choose location and server size for your needed. On Image make sure you select **Ubuntu** one
+Choose location and server size for your needed. Make sure you select **Ubuntu** one and increase **Storage.** Do **not** choose ARM cpu,&#x20;
 
-<figure><img src="../.gitbook/assets/image (22) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ### Set the initialization script
 
 Expand Advanced Options and Check Add Initialization scripts, then paste init script from TinyInstaller here
 
-<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### Create Droplet
 
 Select Quantity you want to create, make sure that not exceeded number of max Install Process allowed in your package. \
-_Example: In this picture below we have 20 free process then we can create 20 instances_
+_Example: If you have 20 free process then we can create 20 instances_
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ### Droplet created
 

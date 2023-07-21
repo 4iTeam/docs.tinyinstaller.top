@@ -32,7 +32,7 @@ Then select Os and check Init Script
 
 Enable Cloud-Init and paste init script which copy from step 1.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select Qty then click Deploy Now
 
