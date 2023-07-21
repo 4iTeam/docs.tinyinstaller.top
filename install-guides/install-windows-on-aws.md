@@ -36,7 +36,7 @@ Expand Advanced Options and Check Add Initialization scripts, then paste init sc
 
 <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-### Create Droplet
+### Create Instance
 
 Select Quantity you want to create, make sure that not exceeded number of max Install Process allowed in your package. \
 _Example: If you have 20 free process then we can create 20 instances_
