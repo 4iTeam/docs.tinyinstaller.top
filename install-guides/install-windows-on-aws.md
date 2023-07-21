@@ -22,7 +22,7 @@ Then select Os and check Init Script
 
 Login to AWS EC2 then click Launch instances
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Choose Location, Configration
 
@@ -34,7 +34,7 @@ Choose location and server size for your needed. Make sure you select **Ubuntu**
 
 Expand Advanced Options and Check Add Initialization scripts, then paste init script from TinyInstaller here
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Create Droplet
 
@@ -53,11 +53,11 @@ After droplet created we go back to TinyInstaller -> My Instances to check insta
 
 You can monitor install processes at [My Instances](https://tinyinstaller.top/my-instances)
 
-<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 You can view status detail by click the link on status column
 
-<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Step 4 - Access to Windows
 
