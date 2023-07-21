@@ -1,0 +1,76 @@
+# Install Windows on Linode
+
+Install windows on Linode is not same with other providers, because we need to change boot setting to Direct Disk. Linode reboot slowly then in the video guide we change to Direct Disk at right time then we don't have to reboot after updated
+
+{% embed url="https://www.youtube.com/watch?v=Wkgso_p5y70" %}
+Install windows on Linode
+{% endembed %}
+
+We also able to use TinyInstaller's InitScript in Linode. If you want to use init script, please follow steps below
+
+## Step 1 - Generate init script from TinyInstaller
+
+You need to have license key first, if don't have let's buy one
+
+#### Login to TinyInstaller
+
+Go to https://tinyinstaller.top/login then enter your key
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Login</p></figcaption></figure>
+
+#### Get Init Script
+
+Then select Os and check Init Script
+
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Get Init script</p></figcaption></figure>
+
+## Step 2 - Create Stack Script
+
+Goto StackScripts and click Create Stack Script
+
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
+Enter script (copy from Step 1) here, make sure you select Debian 11 in Target Images
+
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>created scripts</p></figcaption></figure>
+
+## Step 3 - Create Windows VPS on Linode with StackScript
+
+In Linodes/Create screen select stack scripts tab then choose the stack which you created before
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+Click Create Linode to create
+
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+
+After instance is running then go back to TinyInstaller -> My Instances to check install status
+
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
+## Step 4 - Check install status
+
+Go to [My Instances](https://tinyinstaller.top/my-instances) you may check status there
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+## Step 5 - Update Direct Disk (important)
+
+After install status changed to "Installed" you need to go to Linode and update configuration
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Edit Configuration</p></figcaption></figure>
+
+Change Boot Setting to Direct Disk then Save Changes
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+Reboot instance
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+Wait it boots up and connect. It may take 10-15 min, please be patient. When you see Status changed to Done it's time to connect via RDP
+
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
