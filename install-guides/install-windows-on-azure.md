@@ -37,3 +37,11 @@ Then paste to Terminal Console we opened in previous step then press enter to ru
 Choose image you want to install by choosing number from the list
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+Answer y to confirm
+
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+Now terminal will be disconnected, open tracking url on browser to see progress
+
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>

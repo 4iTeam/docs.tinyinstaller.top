@@ -14,7 +14,7 @@ Go to https://tinyinstaller.top/login then enter your key
 
 Then select Os and check Init Script
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Get Init script</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Get Init script</p></figcaption></figure>
 
 ## Step 2 - Create Windows VPS on Vultr with Init Script
 

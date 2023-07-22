@@ -14,7 +14,7 @@ Go to https://tinyinstaller.top/login then enter your key
 
 Then select Os and check Init Script
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Get Init script</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Get Init script</p></figcaption></figure>
 
 ## Step 2 - Create Windows VPS on Google Cloud with Init Script
 
@@ -52,7 +52,7 @@ After instance created we go back to TinyInstaller -> My Instances to check inst
 
 You can monitor install processes at [My Instances](https://tinyinstaller.top/my-instances)
 
-<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can view status detail by click the link on status column
 

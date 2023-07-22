@@ -14,7 +14,7 @@ Go to https://tinyinstaller.top/login then enter your key
 
 Then select Os and check Init Script
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Get Init script</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Get Init script</p></figcaption></figure>
 
 ## Step 2 - Create Windows VPS on AWS with Init Script
 
@@ -63,6 +63,6 @@ You can view status detail by click the link on status column
 
 When installation done, you can copy IP address (include port), user/pass and access to RDP
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 That's all, you now connect to windows via RDP. Everything is processed automatically.
