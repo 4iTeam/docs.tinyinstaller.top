@@ -18,7 +18,7 @@ Fill Host, Username, Password then click login
 
 After login then click New Terminal Console
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Terminal windows appears, we leave it there and get command from tinyinstaller to run
 
@@ -66,7 +66,7 @@ SSH terminal will be disconnected and we track progress on website by open Track
 
 Track installation progress and get RDP access in website
 
-<figure><img src="../.gitbook/assets/image (15) (2).png" alt=""><figcaption><p>Click Access information to see RDP password</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (2) (1).png" alt=""><figcaption><p>Click Access information to see RDP password</p></figcaption></figure>
 
 ## Step 3: Connect to windows
 

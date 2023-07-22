@@ -28,13 +28,13 @@ Login to Google Cloud then click CREATE INSTANCE
 
 Choose location and server size for your needed. Make sure **Disk Size** is enough to run Windows. Do not choose ARM cpu, TinyInstaller supports Intel/AMD only.
 
-<figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Set the initialization script
 
 Expand Advanced Options- > Management, then paste init script from TinyInstaller into Automation - Startup script
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Create VM
 

@@ -47,7 +47,7 @@ _Example: In this picture below we have 20 free process then we can create 20 in
 
 After droplet created we go back to TinyInstaller -> My Instances to check install status
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Step 3 - Check install status
 

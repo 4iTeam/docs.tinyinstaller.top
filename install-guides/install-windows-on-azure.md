@@ -1,68 +1,39 @@
 # Install Windows on Azure
 
-## Step 1 - Generate init script from TinyInstaller
+## Step 1 - Create Ubuntu VPS on Azure
 
-You need to have license key first, if don't have let's buy one
+### Create new Virtual Machine
 
-#### Login to TinyInstaller
+Login to Azure then go to Virtual machines and click Create button
 
-Go to https://tinyinstaller.top/login then enter your key
-
-<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Login</p></figcaption></figure>
-
-#### Get Init Script
-
-Then select Os and check Init Script
-
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Get Init script</p></figcaption></figure>
-
-## Step 2 - Create Windows VPS on Digital Ocean with Init Script
-
-### Create new Droplet
-
-Login to Digital Ocean then click Create -> Droplets
-
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Select Create -> Droplets</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 ### Choose Location, Configration
 
 Choose location and server size for your needed. On Image make sure you select **Ubuntu** one
 
-<figure><img src="../.gitbook/assets/image (22) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-### Set the initialization script
+## Step 2 - Connect to Ubuntu VPS
 
-Expand Advanced Options and Check Add Initialization scripts, then paste init script from TinyInstaller here
-
-<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
-
-### Create Droplet
-
-Select Quantity you want to create, make sure that not exceeded number of max Install Process allowed in your package. \
-_Example: In this picture below we have 20 free process then we can create 20 instances_
-
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
-
-### Droplet created
-
-After droplet created we go back to TinyInstaller -> My Instances to check install status
+In Bitvise SSH Client just fill in details and click login
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-## Step 3 - Check install status
+Then click New terminal console to open terminal
 
-You can monitor install processes at [My Instances](https://tinyinstaller.top/my-instances)
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
+## Step 3 - Run Install command
 
-You can view status detail by click the link on status column
+Copy command from TinyInstaller
 
-<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-## Step 4 - Access to Windows
+Then paste to Terminal Console we opened in previous step then press enter to run
 
-When installation done, you can copy it and access to RDP
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
+Choose image you want to install by choosing number from the list
 
-That's all, you now connect to windows via RDP. Everything is processed automatically.
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>

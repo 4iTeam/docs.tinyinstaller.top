@@ -32,13 +32,13 @@ Then select Os and check Init Script
 
 Enable Cloud-Init and paste init script which copy from step 1.
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select Qty then click Deploy Now
 
 Note: the number of servers should not exceed Max install process on your TinyInstaller's key
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Wait for instances
 
@@ -68,6 +68,6 @@ Copy and input IP address need to copy port as well then click connect
 
 Input credentials then click OK
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 That's all, you now connect to windows via RDP. Everything is processed automatically.

@@ -22,13 +22,13 @@ Then select Os and check Init Script
 
 Login to AWS EC2 then click Launch instances
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Choose Location, Configration
 
 Choose location and server size for your needed. Make sure you select **Ubuntu** one and increase **Storage.** Do **not** choose ARM cpu and note that T3, M5 cpu compatible with T3 images only, Other cpu like T2, C4 should use normal images
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Set the initialization script
 
@@ -41,11 +41,11 @@ Expand Advanced Options and Check Add Initialization scripts, then paste init sc
 Select Quantity you want to create, make sure that not exceeded number of max Install Process allowed in your package. \
 _Example: If you have 20 free process then we can create 20 instances_
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Instance created
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 After instance created we go back to TinyInstaller -> Install history to check install status
 
@@ -57,7 +57,7 @@ You can monitor install processes at [Install history](https://tinyinstaller.top
 
 You can view status detail by click the link on status column
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Step 4 - Access to Windows
 
