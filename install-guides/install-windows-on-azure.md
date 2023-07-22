@@ -45,3 +45,9 @@ Answer y to confirm
 Now terminal will be disconnected, open tracking url on browser to see progress
 
 <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
+Wait until it done then you can access to RDP
+
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
