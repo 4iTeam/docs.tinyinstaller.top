@@ -10,9 +10,12 @@ Login to Azure then go to Virtual machines and click Create button
 
 ### Choose Location, Configration
 
-Choose location and server size for your needed. On Image make sure you select **Ubuntu** one
+Choose location and server size for your needed. Make sure you select correct Security Type and Image:
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+* Security type: **Standard**
+* Image: **Ubuntu** (any ubuntu version)
+
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 ## Step 2 - Connect to Ubuntu VPS
 
