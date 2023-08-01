@@ -19,3 +19,10 @@
 * [Install Windows on SSD Nodes](install-guides/install-windows-on-ssd-nodes.md)
 * [Install Windows on Kamatera](install-guides/install-windows-on-kamatera.md)
 * [Install Windows on VPS Linux](install-guides/install-windows-on-vps-linux.md)
+
+## Firewall guides
+
+* [Open Firewall on Google Cloud](firewall-guides/open-firewall-on-google-cloud.md)
+* [Open Firewall on Azure](firewall-guides/open-firewall-on-azure.md)
+* [Open Firewall on Oracle Cloud](firewall-guides/open-firewall-on-oracle-cloud.md)
+* [Open Firewall on AWS](firewall-guides/open-firewall-on-aws.md)
