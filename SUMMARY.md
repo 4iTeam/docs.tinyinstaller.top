@@ -26,3 +26,7 @@
 * [Open Firewall on Azure](firewall-guides/open-firewall-on-azure.md)
 * [Open Firewall on Oracle Cloud](firewall-guides/open-firewall-on-oracle-cloud.md)
 * [Open Firewall on AWS](firewall-guides/open-firewall-on-aws.md)
+
+## Windows
+
+* [Convert Windows Server Evaluation To Datacenter](windows/convert-windows-server-evaluation-to-datacenter.md)

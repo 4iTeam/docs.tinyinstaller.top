@@ -60,7 +60,7 @@ Go to [My Instances](https://tinyinstaller.top/my-instances) you may check statu
 
 After install status changed to "Installed" you need to go to Linode and update configuration
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Edit Configuration</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Edit Configuration</p></figcaption></figure>
 
 Change Boot Setting to Direct Disk then Save Changes
 
