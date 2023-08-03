@@ -1,11 +1,16 @@
 # Convert Windows Server Evaluation To Datacenter
 
+
+
 ## Steps to do
 
-1. Launch a PowerShell as an Administrator
-2. Type DISM /online /Set-Edition:ServerDatacenter /ProductKey:{KEY-KEY-KEY-KEY-KEY} /AcceptEula and press ENTER
+* Launch a PowerShell as an Administrator
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+
+* Type DISM /online /Set-Edition:ServerDatacenter /ProductKey:{KEY-KEY-KEY-KEY-KEY} /AcceptEula and press ENTER
+
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 ## Windows 2012R2
 
