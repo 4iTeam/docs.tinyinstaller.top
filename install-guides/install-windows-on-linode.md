@@ -6,6 +6,14 @@ Install windows on Linode is not same with other providers, because we need to c
 Install windows on Linode
 {% endembed %}
 
+<mark style="color:red;">**Important: Only change configuration to Direct Disk after status changed to "Installing"**</mark>
+
+
+
+***
+
+
+
 We also able to use TinyInstaller's InitScript in Linode. If you want to use init script, please follow steps below
 
 ## Step 1 - Generate init script from TinyInstaller
