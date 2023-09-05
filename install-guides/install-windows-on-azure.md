@@ -10,9 +10,9 @@ Login to Azure then go to Virtual machines and click Create button
 
 ### Choose Location, Configration
 
-Choose location and server size for your needed. Make sure you select correct Security Type and Image:
+Choose location and server size for your needed. Make sure you select correct <mark style="color:red;">**Security Type**</mark> and Image:
 
-* Security type: **Standard**
+* <mark style="color:red;">Security type</mark>: **Standard**
 * Image: **Ubuntu** (any ubuntu version)
 
 <figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
