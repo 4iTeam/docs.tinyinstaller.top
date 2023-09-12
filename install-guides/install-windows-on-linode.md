@@ -62,11 +62,16 @@ After instance is running then go back to TinyInstaller -> My Instances to check
 
 Go to [My Instances](https://tinyinstaller.top/my-instances) you may check status there
 
+<mark style="color:red;">**Please be patient and wait until you see your instance appear in the history list before moving to next step**</mark>
+
 <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Step 5 - Update Direct Disk (important)
 
-After install status changed to "Installed" you need to go to Linode and update configuration
+After instance appear in TinyInstaller website we need to update Configuration in Linode. There are 2 valid points to update:
+
+* If TinyInstaller show "<mark style="color:green;">Installing</mark>" then just update to <mark style="color:green;">Direct Disk</mark>
+* If TinyInstaller show "<mark style="color:blue;">Installed</mark>" then update to Direct Disk and <mark style="color:blue;">Reboot</mark>
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Edit Configuration</p></figcaption></figure>
 
