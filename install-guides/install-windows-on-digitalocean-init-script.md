@@ -1,4 +1,8 @@
-# Install Windows on Digital Ocean
+---
+description: This page show you how to install windows on Digital Ocean with init script
+---
+
+# Install Windows on DigitalOcean (Init Script)
 
 ## Step 1 - Generate init script from TinyInstaller
 

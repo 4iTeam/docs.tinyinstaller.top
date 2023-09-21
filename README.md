@@ -14,8 +14,8 @@ This docs will show you how to use tinyinstaller
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="install-guides/install-windows-on-digital-ocean.md" %}
-[install-windows-on-digital-ocean.md](install-guides/install-windows-on-digital-ocean.md)
+{% content-ref url="install-guides/install-windows-on-digitalocean-init-script.md" %}
+[install-windows-on-digitalocean-init-script.md](install-guides/install-windows-on-digitalocean-init-script.md)
 {% endcontent-ref %}
 
 {% content-ref url="install-guides/install-windows-on-linode.md" %}

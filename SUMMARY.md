@@ -8,7 +8,8 @@
 
 ## Install Guides
 
-* [Install Windows on Digital Ocean](install-guides/install-windows-on-digital-ocean.md)
+* [Install Windows on DigitalOcean](install-guides/install-windows-on-digitalocean.md)
+* [Install Windows on DigitalOcean (Init Script)](install-guides/install-windows-on-digitalocean-init-script.md)
 * [Install Windows on Vultr](install-guides/install-windows-on-vultr.md)
 * [Install Windows on Linode](install-guides/install-windows-on-linode.md)
 * [Install Windows on Google Cloud](install-guides/install-windows-on-google-cloud.md)
