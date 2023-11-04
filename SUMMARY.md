@@ -32,3 +32,7 @@
 
 * [Change RDP Port](windows/change-rdp-port.md)
 * [Convert Windows Server Evaluation To Datacenter](windows/convert-windows-server-evaluation-to-datacenter.md)
+
+## Payment
+
+* [Pay with Binance](payment/pay-with-binance.md)

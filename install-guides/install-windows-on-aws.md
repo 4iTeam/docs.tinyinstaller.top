@@ -22,7 +22,7 @@ Then select Os and check Init Script
 
 Login to AWS EC2 then click Launch instances
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Choose Location, Configration
 
@@ -57,7 +57,7 @@ You can monitor install processes at [Install history](https://tinyinstaller.top
 
 You can view status detail by click the link on status column
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Step 4 - Access to Windows
 

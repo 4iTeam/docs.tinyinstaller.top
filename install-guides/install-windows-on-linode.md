@@ -73,7 +73,7 @@ After instance appear in TinyInstaller website we need to update Configuration i
 * If TinyInstaller show "<mark style="color:green;">Installing</mark>" then just update to <mark style="color:green;">Direct Disk</mark>
 * If TinyInstaller show "<mark style="color:blue;">Installed</mark>" then update to Direct Disk and <mark style="color:blue;">Reboot</mark>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Edit Configuration</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Edit Configuration</p></figcaption></figure>
 
 Change Boot Setting to Direct Disk then Save Changes
 

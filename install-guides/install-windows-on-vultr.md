@@ -38,7 +38,7 @@ Select Qty then click Deploy Now
 
 Note: the number of servers should not exceed Max install process on your TinyInstaller's key
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Wait for instances
 
@@ -48,7 +48,7 @@ Note: the number of servers should not exceed Max install process on your TinyIn
 
 You can monitor install processes at [My Instances](https://tinyinstaller.top/my-instances)
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
