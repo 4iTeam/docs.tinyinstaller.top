@@ -5,6 +5,7 @@
 ## Overview
 
 * [✨ Our Features](overview/our-features.md)
+* [Unsupported providers](overview/unsupported-providers.md)
 
 ## Install Guides
 
