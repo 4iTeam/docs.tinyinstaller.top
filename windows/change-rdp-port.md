@@ -1,5 +1,11 @@
 # Change RDP Port
 
+
+
+## Open Powershell
+
+<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+
 ### Please execute the commands below in PowerShell to modify the RDP port (replace '3389' with your desired port number).
 
 `$rdpPort = 3389`\
