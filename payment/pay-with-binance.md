@@ -22,3 +22,5 @@ It's very important to set the Note when pay with binance. Without valid note or
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Write the Note show on Tinyinstaller payment screen</p></figcaption></figure>
 
 </div>
+
+If you forgot to write a note, please submit your order information at https://my.tinyinstaller.top/payment-confirmation/ for manual review and confirmation.
