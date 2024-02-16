@@ -25,4 +25,4 @@ Make sure you input correct amount in <mark style="color:red;">**USDT**</mark> a
 
 </div>
 
-If you forgot to write a note, please submit your order information at https://my.tinyinstaller.top/payment-confirmation/ for manual review and confirmation.
+If you forgot to write a note, please submit your order information at [https://my.tinyinstaller.top/payment-confirmation/](https://my.tinyinstaller.top/payment-confirmation/) for manual review and confirmation.
