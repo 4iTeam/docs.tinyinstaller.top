@@ -1,8 +1,10 @@
 # Pay with Binance
 
-It's very important to set the Note when pay with binance. Without valid note order cannot be confirmed.
+It's very important to set the Note when pay with binance. Without valid note order cannot be confirmed automatically. And we only **accept USDT** do not pay in other currency like BTC
 
 ## How to pay on web
+
+Make sure you input correct amount in <mark style="color:red;">**USDT**</mark> and <mark style="color:red;">**Note**</mark>** before payment**
 
 <figure><img src="../.gitbook/assets/how_to_pay.jpg" alt=""><figcaption></figcaption></figure>
 
