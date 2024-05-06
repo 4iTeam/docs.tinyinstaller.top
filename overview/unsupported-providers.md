@@ -6,4 +6,3 @@ description: List of providers known to not be supported by TinyInstaller.
 
 
 
-1. Scaleway (scaleway.com)
