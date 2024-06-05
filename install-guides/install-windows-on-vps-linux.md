@@ -1,8 +1,6 @@
 # Install Windows on VPS Linux
 
-{% embed url="https://www.youtube.com/watch?v=bEbypgA6SzY" %}
-Install windows on Linux VPS Video guide
-{% endembed %}
+{% embed url="https://www.youtube.com/watch?v=ns3IKLu9Hug" %}
 
 ## Step 1: Login to linux vps
 
