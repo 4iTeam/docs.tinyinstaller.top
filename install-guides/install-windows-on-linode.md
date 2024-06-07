@@ -4,7 +4,12 @@ Install windows on Linode is not same with other providers, because we need to c
 
 {% embed url="https://youtu.be/GujFB9vP0DU" %}
 
-<mark style="color:red;">**Important: Only change configuration to Direct Disk after status changed to "Installing"**</mark>
+<mark style="color:red;">**Note:**</mark>&#x20;
+
+* If change to Direct Disk after status changed to "Installing" but before "Installed" => Don't need reboot
+* If change to Direct Disk after status changed to "Installed" => Need reboot
+
+
 
 
 
