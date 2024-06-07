@@ -2,9 +2,7 @@
 
 Install windows on Linode is not same with other providers, because we need to change boot setting to Direct Disk. Linode reboot slowly then in the video guide we change to Direct Disk at right time then we don't have to reboot after updated
 
-{% embed url="https://www.youtube.com/watch?v=Wkgso_p5y70" %}
-Install windows on Linode
-{% endembed %}
+{% embed url="https://youtu.be/GujFB9vP0DU" %}
 
 <mark style="color:red;">**Important: Only change configuration to Direct Disk after status changed to "Installing"**</mark>
 
