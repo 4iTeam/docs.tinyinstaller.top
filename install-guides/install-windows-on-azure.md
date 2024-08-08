@@ -35,7 +35,7 @@ Copy command from TinyInstaller
 
 Then paste to Terminal Console we opened in previous step then press enter to run
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Choose image you want to install by choosing number from the list
 

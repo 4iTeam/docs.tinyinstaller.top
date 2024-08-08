@@ -51,7 +51,7 @@ Enter script (copy from Step 1) here, make sure you select Debian 11 in Target I
 
 In Linodes/Create screen select stack scripts tab then choose the stack which you created before
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Click Create Linode to create
 
@@ -76,15 +76,15 @@ After instance appear in TinyInstaller website we need to update Configuration i
 * If TinyInstaller show "<mark style="color:green;">Installing</mark>" then just update to <mark style="color:green;">Direct Disk</mark>
 * If TinyInstaller show "<mark style="color:blue;">Installed</mark>" then update to Direct Disk and <mark style="color:blue;">Reboot</mark>
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Edit Configuration</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Edit Configuration</p></figcaption></figure>
 
 Change Boot Setting to Direct Disk then Save Changes
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Reboot instance
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Wait it boots up and connect. It may take 10-15 min, please be patient. When you see Status changed to Done it's time to connect via RDP
 

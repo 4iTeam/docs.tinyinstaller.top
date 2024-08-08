@@ -16,7 +16,7 @@ Fill Host, Username, Password then click login
 
 After login then click New Terminal Console
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Terminal windows appears, we leave it there and get command from tinyinstaller to run
 
@@ -60,7 +60,7 @@ Copy the tracking link then confirm by answer "y"
 
 SSH terminal will be disconnected and we track progress on website by open Tracking link
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Track installation progress and get RDP access in website
 

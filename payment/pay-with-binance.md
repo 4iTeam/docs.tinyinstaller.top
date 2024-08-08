@@ -17,11 +17,11 @@ Make sure you input correct amount in <mark style="color:red;">**USDT**</mark> a
 
 <div>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Tap on "Add Note" to write the Note</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Tap on "Add Note" to write the Note</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Write the Note show on Tinyinstaller payment screen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Write the Note show on Tinyinstaller payment screen</p></figcaption></figure>
 
 </div>
 
