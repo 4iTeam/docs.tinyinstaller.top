@@ -14,6 +14,7 @@
 * [Install Windows on Vultr](install-guides/install-windows-on-vultr.md)
 * [Install Windows on Linode](install-guides/install-windows-on-linode.md)
 * [Install Windows on Google Cloud](install-guides/install-windows-on-google-cloud.md)
+* [Install Windows on Oracle Cloud](install-guides/install-windows-on-oracle-cloud.md)
 * [Install Windows on AWS](install-guides/install-windows-on-aws.md)
 * [Install Windows on Azure](install-guides/install-windows-on-azure.md)
 * [Install Windows on CloudCone](install-guides/install-windows-on-cloudcone.md)
