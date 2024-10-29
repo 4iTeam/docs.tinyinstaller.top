@@ -30,4 +30,8 @@
 
 `DISM /online /Set-Edition:ServerDatacenter /ProductKey:WX4NM-KYWYW-QJJR4-XV3QB-6VM33 /AcceptEula`&#x20;
 
+## Windows 2022 Standard
+
+`DISM /online /Set-Edition:ServerStandard /ProductKey:VDYBN-27WPP-V4HQT-9VMD4-VMK7H /AcceptEula /NoRestart`
+
 _<mark style="color:red;">**Note: This guide only changes the Edition of Windows Server; it doesn't mean you are licensed. You still need to buy a product key from Microsoft to activate your Windows Server.**</mark>_
