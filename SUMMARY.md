@@ -38,3 +38,7 @@
 ## Payment
 
 * [Pay with Binance](payment/pay-with-binance.md)
+
+## Api
+
+* [Api Requests](api/api-requests.md)
