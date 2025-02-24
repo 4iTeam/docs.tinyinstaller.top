@@ -42,4 +42,4 @@
 ## Api
 
 * [Api Requests](api/api-requests.md)
-* [Build install command](api/build-install-command.md)
+* [Build Install Command](api/build-install-command.md)

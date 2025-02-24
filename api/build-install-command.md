@@ -1,6 +1,6 @@
-# Build install command
+# Build Install Command
 
-## Install command
+## Install Command
 
 Parameters:\
 `setup_url`: Setup URL obtained from the [License Info Api](api-requests.md#get-license-info)\
