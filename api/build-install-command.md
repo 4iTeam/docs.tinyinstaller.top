@@ -6,11 +6,13 @@ Parameters:\
 `setup_url`: Setup url which get from [License Info Api](api-requests.md#get-license-info)\
 `key`: Setup key which get from [License Info Api](api-requests.md#get-license-info)
 
-### General command
+### Base command
 
 ```
 ({setup_url} -4O setup.sh || curl {setup_url} -Lo setup.sh) && bash setup.sh {key}
 ```
+
+You will be asked to select image when run this command. To generate pre-selected image please check below section
 
 ### Pre-selected image command
 
