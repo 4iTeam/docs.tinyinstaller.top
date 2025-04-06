@@ -7,13 +7,13 @@ To authenticate requests, include an **`Authorization`** header with the value *
 ## Get license info
 
 Request:\
-`GET` [https://tinyinstaller.top/api/v1/me/info](https://tinyinstaller.top/api/v1/me/info)\
+`GET` [https://tinyinstaller.top/api/v1/my/info](https://tinyinstaller.top/api/v1/me/info)\
 Headers:\
 `Authorization`: `Bearer {YOUR_LICENSE_KEY}`
 
 ### Get images
 
-`GET` [https://tinyinstaller.top/api/v1/me/images](https://tinyinstaller.top/api/v1/me/images)\
+`GET` [https://tinyinstaller.top/api/v1/my/images](https://tinyinstaller.top/api/v1/me/images)\
 Headers:\
 `Authorization`: `Bearer {YOUR_LICENSE_KEY}`\
 Body Parameters:\
@@ -22,7 +22,7 @@ Body Parameters:\
 
 ### Get instances
 
-`GET`  [https://tinyinstaller.top/api/v1/me/instances](https://tinyinstaller.top/api/v1/me/instances)\
+`GET`  [https://tinyinstaller.top/api/v1/my/instances](https://tinyinstaller.top/api/v1/me/instances)\
 Headers:\
 `Authorization`: `Bearer {YOUR_LICENSE_KEY}` \
 Body Parameters:\
@@ -33,7 +33,7 @@ Body Parameters:\
 
 ### Get instance detail
 
-`GET` [https://tinyinstaller.top/api/v1/me/instances/{id}](https://tinyinstaller.top/api/v1/me/instances/%7Bid%7D)\
+`GET` [https://tinyinstaller.top/api/v1/my/instances/{id}](https://tinyinstaller.top/api/v1/me/instances/%7Bid%7D)\
 Headers:\
 `Authorization`: `Bearer {YOUR_LICENSE_KEY}` \
 Url parameters:\
