@@ -39,7 +39,7 @@ Expand Advanced Options and Check Add Initialization scripts, then paste init sc
 ### Create Instance
 
 Select Quantity you want to create, make sure that not exceeded number of max Install Process allowed in your package. \
-_Example: If you have 20 free process then we can create 20 instances_
+&#xNAN;_&#x45;xample: If you have 20 free process then we can create 20 instances_
 
 <figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
