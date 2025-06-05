@@ -30,6 +30,10 @@ Choose location and server size for your needed. Make sure **Disk Size** is enou
 
 <figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption><p>Make sure to increase Disk Size</p></figcaption></figure>
 
+### Enable display device
+
+<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+
 ### Set the initialization script
 
 Switch to Advanced, then paste init script from TinyInstaller into Automation
