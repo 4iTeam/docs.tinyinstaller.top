@@ -14,19 +14,19 @@
 
 <figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption><p>There should be no evaluation text at the bottom right corner.</p></figcaption></figure>
 
-## Windows 2012R2
+## Windows 2012R2 Datacenter
 
 `DISM /online /Set-Edition:ServerDatacenter /ProductKey:BH9T4-4N7CW-67J3M-64J36-WW98Y /AcceptEula`
 
-## Windows 2016
+## Windows 2016 Datacenter
 
 `DISM /online /Set-Edition:ServerDatacenter /ProductKey:CB7KF-BWN84-R7R2Y-793K2-8XDDG /AcceptEula`
 
-## Windows 2019
+## Windows 2019 Datacenter
 
 `DISM /online /Set-Edition:ServerDatacenter /ProductKey:WMDGN-G9PQG-XVVXX-R3X43-63DFG /AcceptEula`&#x20;
 
-## Windows 2022
+## Windows 2022 Datacenter
 
 `DISM /online /Set-Edition:ServerDatacenter /ProductKey:WX4NM-KYWYW-QJJR4-XV3QB-6VM33 /AcceptEula`&#x20;
 
@@ -34,7 +34,7 @@
 
 `DISM /online /Set-Edition:ServerStandard /ProductKey:VDYBN-27WPP-V4HQT-9VMD4-VMK7H /AcceptEula`
 
-## Windows 2025
+## Windows 2025 Datacenter
 
 `DISM /online /Set-Edition:ServerDatacenter /ProductKey:D764K-2NDRG-47T6Q-P8T8W-YP6DF /AcceptEula`
 
