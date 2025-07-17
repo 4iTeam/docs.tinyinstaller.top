@@ -26,9 +26,12 @@ Login to AWS EC2 then click Launch instances
 
 ### Choose Location, Configration
 
-Choose location and server size for your needed. Make sure you select **Ubuntu** one and increase **Storage.** Do **not** choose ARM cpu and note that T3, M5 cpu compatible with T3 images only, Other cpu like T2, C4 should use normal images
+Choose location and server size for your needed. Make sure you select **Ubuntu** one and increase **Storage.**
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+**Instance types supported**: _<mark style="color:green;">**T3, M5, C5, T2, C4**</mark>_
+
+* T3, M5, C5 need special aws image [https://tinyinstaller.top/images?hl=en\&s=t3](https://tinyinstaller.top/images?hl=en\&s=t3)
+* T2, C4: All other images
 
 ### Set the initialization script
 
