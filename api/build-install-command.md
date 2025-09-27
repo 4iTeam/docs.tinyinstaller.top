@@ -19,6 +19,12 @@ When you run this command, you will be prompted to select an image. To use a pre
 Append -i={image\_id} to the base command.\
 `image_id` can be found in [Images Api](api-requests.md#get-images)
 
+### Choose port, username and password
+
+-port={portnumber}\
+-username={username} \
+-password={password}
+
 ### Pre-Confirmed Command
 
 Append `-y` to the command to skip confirmation prompts.
