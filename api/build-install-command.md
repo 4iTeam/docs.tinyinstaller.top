@@ -29,6 +29,10 @@ Append -i={image\_id} to the base command.\
 
 Append `-y` to the command to skip confirmation prompts.
 
+### Force Install (skip port check)
+
+To skip port check, append `-f`  to the command
+
 ## Init Script
 
 ```
