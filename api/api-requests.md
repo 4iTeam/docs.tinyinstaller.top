@@ -7,13 +7,13 @@ To authenticate requests, include an **`Authorization`** header with the value *
 ## Get license info
 
 Request:\
-`GET` [https://tinyinstaller.top/api/v1/my/info](https://tinyinstaller.top/api/v1/me/info)\
+`GET` https://tinyinstaller.top/api/v1/my/info\
 Headers:\
 `Authorization`: `Bearer {YOUR_LICENSE_KEY}`
 
 ### Get images
 
-`GET` [https://tinyinstaller.top/api/v1/my/images](https://tinyinstaller.top/api/v1/me/images)\
+`GET` https://tinyinstaller.top/api/v1/my/images\
 Headers:\
 `Authorization`: `Bearer {YOUR_LICENSE_KEY}`\
 Body Parameters:\
@@ -22,7 +22,7 @@ Body Parameters:\
 
 ### Get instances
 
-`GET`  [https://tinyinstaller.top/api/v1/my/instances](https://tinyinstaller.top/api/v1/me/instances)\
+`GET`  https://tinyinstaller.top/api/v1/my/instances\
 Headers:\
 `Authorization`: `Bearer {YOUR_LICENSE_KEY}` \
 Body Parameters:\
@@ -33,9 +33,14 @@ Body Parameters:\
 
 ### Get instance detail
 
-`GET` [https://tinyinstaller.top/api/v1/my/instances/{id}](https://tinyinstaller.top/api/v1/me/instances/%7Bid%7D)\
+`GET` https://tinyinstaller.top/api/v1/my/instances/{id}\
 Headers:\
 `Authorization`: `Bearer {YOUR_LICENSE_KEY}` \
 Url parameters:\
 `id` Instance id from list. Example: 22353604-ae4a-47b3-8d70-ef919a9445e2
 
+### Regenerate setup key
+
+`POST` https://tinyinstaller.top/api/v1/my/key/regenerate\
+Headers:\
+`Authorization`: `Bearer {YOUR_LICENSE_KEY}`
