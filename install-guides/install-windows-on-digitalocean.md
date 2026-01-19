@@ -1,7 +1,8 @@
 ---
 description: >-
-  This page show you how to create Linux VPS in Digital Ocean and install
-  windows on it
+  This guide explains how to create a Linux VPS on DigitalOcean and install
+  Windows on it using a command-based, image deployment process. Windows
+  licenses are not included.
 ---
 
 # Install Windows on DigitalOcean

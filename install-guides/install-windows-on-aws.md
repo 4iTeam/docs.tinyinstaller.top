@@ -2,7 +2,7 @@
 
 ## Step 1 - Generate init script from TinyInstaller
 
-You need to have license key first, if don't have let's buy one
+To get started, you need an active **TinyInstaller access key.**
 
 #### Login to TinyInstaller
 

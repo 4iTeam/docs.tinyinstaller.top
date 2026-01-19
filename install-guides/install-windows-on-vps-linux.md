@@ -28,7 +28,7 @@ _If user is not root then run `sudo -i` command to switch to root_
 
 ## Step 2: Get the install command
 
-You need to have license key first, if don't have let's buy one
+To get started, you need an active **TinyInstaller access key.**
 
 #### Login to TinyInstaller
 

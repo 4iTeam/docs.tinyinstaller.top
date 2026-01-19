@@ -1,16 +1,19 @@
 ---
-description: This page show you how to install windows on Digital Ocean with init script
+description: >-
+  This guide shows you how to install Windows on a DigitalOcean VPS using an
+  initialization script and an image-based deployment process. Windows licenses
+  are not included.
 ---
 
 # Install Windows on DigitalOcean (Init Script)
 
 ## Step 1 - Generate init script from TinyInstaller
 
-You need to have license key first, if don't have let's buy one
+To get started, you need an active **TinyInstaller access key.**
 
 #### Login to TinyInstaller
 
-Go to https://tinyinstaller.top/login then enter your key
+Go to https://tinyinstaller.top/login then Enter your access key to continue.
 
 <figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Login</p></figcaption></figure>
 
