@@ -1,9 +1,9 @@
 # ✨ Our Features
 
-## Install Windows on Linux VPS (Remote Desktop Deployment)
+## Remote Desktop Deployment
 
-This service allows you to install Windows on a Linux VPS without using rescue mode or VNC.\
-The installation process runs directly on a VPS with **Ubuntu or Debian** installed and requires **root access**.
+This service allows you to install Windows/Linux RDP on a Linux-based VPS without using rescue mode or VNC.\
+The deployment process runs directly on a VPS with **Ubuntu or Debian** installed and requires **root access**.
 
 Please note that not all virtualization platforms and CPU architectures are supported.
 
@@ -21,7 +21,7 @@ Please note that not all virtualization platforms and CPU architectures are supp
 
 ## Automatic Network and Remote Desktop Configuration
 
-Networking and remote desktop access are configured automatically during the installation process.
+Network connectivity and remote desktop access are configured automatically during deployment.
 
 No additional manual steps are required, such as:
 
@@ -29,11 +29,11 @@ No additional manual steps are required, such as:
 * Enabling RDP
 * Adding firewall exceptions
 
-Once the installation is completed, the system is ready for remote access.&#x20;
+Once the deployment is completed, the system is ready for remote access.
 
 ## **Multiple Remote Desktop Operating System Options**
 
-You can install a remote desktop environment using multiple operating system options, depending on your needs.
+You can deploy a remote desktop environment using multiple operating system options, depending on your needs.
 
 **Windows-based options:**
 
