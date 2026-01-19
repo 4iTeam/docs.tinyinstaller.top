@@ -3,6 +3,7 @@
 Important notice:\
 The product keys used in this guide are official Microsoft-provided setup (generic) keys.\
 They are used only to change the Windows Server edition from Evaluation to non-evaluation.\
+These keys are publicly documented by Microsoft and are not unique or secret.\
 These keys do NOT activate Windows and do NOT grant a license.\
 A valid Windows Server license is still required for activation.
 
@@ -12,7 +13,7 @@ A valid Windows Server license is still required for activation.
 
 <figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
-* Type DISM /online /Set-Edition:ServerDatacenter /ProductKey:{KEY-KEY-KEY-KEY-KEY} /AcceptEula and press ENTER
+* Type DISM /online /Set-Edition:\<TargetEdition> /ProductKey:\<SetupKey> and press ENTER
 
 <figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption><p>Answer y to reboot</p></figcaption></figure>
 
