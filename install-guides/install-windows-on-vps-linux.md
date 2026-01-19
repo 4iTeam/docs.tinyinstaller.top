@@ -32,9 +32,9 @@ To get started, you need an active **TinyInstaller access key.**
 
 #### Login to TinyInstaller
 
-Go to https://tinyinstaller.top/login then enter your key
+Go to https://tinyinstaller.top/login then Enter your access key to continue.
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tiny_login.png" alt=""><figcaption></figcaption></figure>
 
 #### Copy the command
 

@@ -6,9 +6,9 @@ To get started, you need an active **TinyInstaller access key.**
 
 #### Login to TinyInstaller
 
-Go to https://tinyinstaller.top/login then enter your key
+Go to https://tinyinstaller.top/login then Enter your access key to continue.
 
-<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Login</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/tiny_login.png" alt=""><figcaption><p>Login</p></figcaption></figure>
 
 #### Get Init Script
 
