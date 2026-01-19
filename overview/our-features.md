@@ -2,7 +2,7 @@
 
 ## Remote Desktop Deployment
 
-This service allows you to install Windows/Linux RDP on a Linux-based VPS without using rescue mode or VNC.\
+This service allows you to install Windows or Linux remote desktop environment on a Linux-based VPS without using rescue mode or VNC.\
 The deployment process runs directly on a VPS with **Ubuntu or Debian** installed and requires **root access**.
 
 Please note that not all virtualization platforms and CPU architectures are supported.
