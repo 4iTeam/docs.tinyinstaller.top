@@ -1,16 +1,41 @@
 # ✨ Our Features
 
-## Install windows on Linux VPS
+## Install Windows on Linux VPS (Remote Desktop Deployment)
 
-We can install windows on linux vps without rescue mode or vnc, all we need is just a vps running ubuntu or debian with root permission. Of course not all hypervisor and cpu are supported, there are some limits, Windows cannot be installed on OpenVZ and Arm based cpus. We support KVM, Hyper-V, VmWare and Xen.
+This service allows you to install Windows on a Linux VPS without using rescue mode or VNC.\
+The installation process runs directly on a VPS with **Ubuntu or Debian** installed and requires **root access**.
 
-### Automatic configure network for windows
+Please note that not all virtualization platforms and CPU architectures are supported.
 
-Networking and RDP will be configured on your VPS automatically, there are no additional steps needed like: configure a static ip, enable rdp, add firewall exception...&#x20;
+**Supported virtualization platforms:**
 
-### Multiple Windows version
+* KVM
+* Hyper-V
+* VMware
+* Xen
 
-There are many version of windows you can choose:
+**Not supported:**
+
+* OpenVZ
+* ARM-based CPUs
+
+## Automatic Network and Remote Desktop Configuration
+
+Networking and remote desktop access are configured automatically during the installation process.
+
+No additional manual steps are required, such as:
+
+* Configuring a static IP address
+* Enabling RDP
+* Adding firewall exceptions
+
+Once the installation is completed, the system is ready for remote access.&#x20;
+
+## **Multiple Remote Desktop Operating System Options**
+
+You can install a remote desktop environment using multiple operating system options, depending on your needs.
+
+**Windows-based options:**
 
 * Windows Server 2012
 * Windows Server 2016
@@ -19,8 +44,14 @@ There are many version of windows you can choose:
 * Windows 10 LTSC 2019
 * Windows 10 LTSC 2021
 * Windows 10 Pro
-* Windows 7
-* Windows 10 Superlite
+
+**Linux-based options:**
+
+* Linux Mint (XFCE, RDP-enabled)
+
+> **Note:**\
+> This is a deployment service only.\
+> Operating system licenses are not included. Customers are responsible for providing and activating a valid license if required.
 
 
 
