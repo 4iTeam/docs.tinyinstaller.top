@@ -33,7 +33,7 @@
 ## Windows
 
 * [Change RDP Port](windows/change-rdp-port.md)
-* [Convert Windows Server Evaluation To Datacenter](windows/convert-windows-server-evaluation-to-datacenter.md)
+* [Convert Windows Server Evaluation to Non-Evaluation Edition (Datacenter / Standard)](windows/convert-windows-server-evaluation-to-non-evaluation-edition-datacenter-standard.md)
 
 ## Payment
 

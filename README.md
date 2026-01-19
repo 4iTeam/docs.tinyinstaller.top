@@ -6,8 +6,8 @@ This docs will show you how to use tinyinstaller
 
 ## Quick links
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/tn2isUWAuqzwCog1RFcH" %}
+[Broken link](/broken/pages/tn2isUWAuqzwCog1RFcH)
 {% endcontent-ref %}
 
 ## Get Started
