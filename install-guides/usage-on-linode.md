@@ -1,6 +1,6 @@
-# Install Windows on Linode
+# Usage on Linode
 
-Install windows on Linode is not same with other providers, because we need to change boot setting to Direct Disk.
+Installation on Linode is not same with other providers, because we need to change boot setting to Direct Disk.
 
 {% embed url="https://youtu.be/M9oUKKAFvzo" %}
 

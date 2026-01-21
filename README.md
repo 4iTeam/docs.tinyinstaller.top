@@ -14,14 +14,14 @@ This docs will show you how to use tinyinstaller
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="install-guides/install-windows-on-digitalocean-init-script.md" %}
-[install-windows-on-digitalocean-init-script.md](install-guides/install-windows-on-digitalocean-init-script.md)
+{% content-ref url="install-guides/usage-on-digitalocean-init-script.md" %}
+[usage-on-digitalocean-init-script.md](install-guides/usage-on-digitalocean-init-script.md)
 {% endcontent-ref %}
 
-{% content-ref url="install-guides/install-windows-on-linode.md" %}
-[install-windows-on-linode.md](install-guides/install-windows-on-linode.md)
+{% content-ref url="install-guides/usage-on-linode.md" %}
+[usage-on-linode.md](install-guides/usage-on-linode.md)
 {% endcontent-ref %}
 
-{% content-ref url="install-guides/install-windows-on-vps-linux.md" %}
-[install-windows-on-vps-linux.md](install-guides/install-windows-on-vps-linux.md)
+{% content-ref url="install-guides/usage-on-any-linux-vps.md" %}
+[usage-on-any-linux-vps.md](install-guides/usage-on-any-linux-vps.md)
 {% endcontent-ref %}

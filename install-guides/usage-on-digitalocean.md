@@ -5,7 +5,7 @@ description: >-
   licenses are not included.
 ---
 
-# Install Windows on DigitalOcean
+# Usage on DigitalOcean
 
 ## Step 1 - Create Ubuntu VPS on DigitalOcean
 
@@ -31,6 +31,6 @@ After Droplet created successfully, move to step 2, connect to Ubuntu VPS with c
 
 Check below link to continue install windows on VPS which created above
 
-{% content-ref url="install-windows-on-vps-linux.md" %}
-[install-windows-on-vps-linux.md](install-windows-on-vps-linux.md)
+{% content-ref url="usage-on-any-linux-vps.md" %}
+[usage-on-any-linux-vps.md](usage-on-any-linux-vps.md)
 {% endcontent-ref %}

@@ -9,19 +9,19 @@
 
 ## Install Guides
 
-* [Install Windows on DigitalOcean](install-guides/install-windows-on-digitalocean.md)
-* [Install Windows on DigitalOcean (Init Script)](install-guides/install-windows-on-digitalocean-init-script.md)
-* [Install Windows on Vultr](install-guides/install-windows-on-vultr.md)
-* [Install Windows on Linode](install-guides/install-windows-on-linode.md)
-* [Install Windows on Google Cloud](install-guides/install-windows-on-google-cloud.md)
-* [Install Windows on Oracle Cloud](install-guides/install-windows-on-oracle-cloud.md)
-* [Install Windows on AWS](install-guides/install-windows-on-aws.md)
-* [Install Windows on Azure](install-guides/install-windows-on-azure.md)
-* [Install Windows on CloudCone](install-guides/install-windows-on-cloudcone.md)
-* [Install Windows on Racknerd](install-guides/install-windows-on-racknerd.md)
-* [Install Windows on SSD Nodes](install-guides/install-windows-on-ssd-nodes.md)
-* [Install Windows on Kamatera](install-guides/install-windows-on-kamatera.md)
-* [Install Windows on VPS Linux](install-guides/install-windows-on-vps-linux.md)
+* [Usage on DigitalOcean](install-guides/usage-on-digitalocean.md)
+* [Usage on DigitalOcean (Init Script)](install-guides/usage-on-digitalocean-init-script.md)
+* [Usage on Vultr](install-guides/usage-on-vultr.md)
+* [Usage on Linode](install-guides/usage-on-linode.md)
+* [Usage on Google Cloud](install-guides/usage-on-google-cloud.md)
+* [Usage on Oracle Cloud](install-guides/usage-on-oracle-cloud.md)
+* [Usage on AWS](install-guides/usage-on-aws.md)
+* [Usage on Azure](install-guides/usage-on-azure.md)
+* [Usage on CloudCone](install-guides/usage-on-cloudcone.md)
+* [Usage on Racknerd](install-guides/usage-on-racknerd.md)
+* [Usage on SSD Nodes](install-guides/usage-on-ssd-nodes.md)
+* [Usage on Kamatera](install-guides/usage-on-kamatera.md)
+* [Usage on any Linux VPS](install-guides/usage-on-any-linux-vps.md)
 
 ## Firewall guides
 
