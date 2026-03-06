@@ -22,6 +22,7 @@
 * [Usage on SSD Nodes](install-guides/usage-on-ssd-nodes.md)
 * [Usage on Kamatera](install-guides/usage-on-kamatera.md)
 * [Usage on any Linux VPS](install-guides/usage-on-any-linux-vps.md)
+* [Use on Dedicated/Baremetal](install-guides/use-on-dedicated-baremetal.md)
 
 ## Firewall guides
 
