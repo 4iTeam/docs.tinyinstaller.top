@@ -26,7 +26,7 @@ Advanced users may choose to **boot Windows directly on the physical hardware**.
 
 This option can be selected from the boot menu.
 
-<figure><img src="../.gitbook/assets/dedicated_qemu.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/dedicated_boot_modes.png" alt=""><figcaption></figcaption></figure>
 
 Select the **Direct Hardware Boot** option from the boot menu to attempt booting Windows directly on the server hardware.
 
