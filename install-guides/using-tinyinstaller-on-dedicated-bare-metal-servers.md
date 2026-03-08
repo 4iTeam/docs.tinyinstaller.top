@@ -22,19 +22,23 @@ For most users, this method provides the **highest success rate** when installin
 
 ### Installation Mode
 
-By default, TinyInstaller uses Compatibility Mode (QEMU/KVM) when installing Windows on dedicated or bare-metal servers. This approach provides the highest success rate because the underlying hardware may be unknown.
+Advanced users who are confident that their hardware is fully compatible with Windows may disable compatibility mode during installation.
 
-After installation, advanced users may choose **Direct Hardware Boot** from the boot menu to run Windows directly on the physical hardware.
+The default installation mode is `auto`, which automatically selects the most compatible method based on the detected environment.
 
-However, changing the boot option usually requires access to a **KVM or IPMI console**, which may not be available or may require additional cost on some providers.
+However, changing the boot option after installation usually requires access to a **KVM or IPMI console**, which may not be available or may require additional cost on some providers.
 
-For users who are confident that their hardware is fully compatible with Windows, TinyInstaller provides an installation mode parameter that allows disabling compatibility mode during installation.
+To avoid this limitation, TinyInstaller provides an installation mode parameter that allows disabling compatibility mode during installation.
 
-```
---mode="direct"
-```
+Append --mode=direct to the command which coppied from TinyInstaller
+
+Example:
+
+(wget \<url> -4O install.sh || curl \<url> -Lo install.sh) && bash install.sh \<key> -i=\<image> --mode=direct
 
 This will skip the compatibility virtualization layer and install Windows directly for physical hardware boot.
+
+
 
 ### Optional: Direct Hardware Boot
 
