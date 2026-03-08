@@ -20,6 +20,22 @@ Virtualization platforms such as KVM expose consistent virtual devices and drive
 
 For most users, this method provides the **highest success rate** when installing Windows on unknown server hardware.
 
+### Installation Mode
+
+By default, TinyInstaller uses Compatibility Mode (QEMU/KVM) when installing Windows on dedicated or bare-metal servers. This approach provides the highest success rate because the underlying hardware may be unknown.
+
+After installation, advanced users may choose **Direct Hardware Boot** from the boot menu to run Windows directly on the physical hardware.
+
+However, changing the boot option usually requires access to a **KVM or IPMI console**, which may not be available or may require additional cost on some providers.
+
+For users who are confident that their hardware is fully compatible with Windows, TinyInstaller provides an installation mode parameter that allows disabling compatibility mode during installation.
+
+```
+--mode="direct"
+```
+
+This will skip the compatibility virtualization layer and install Windows directly for physical hardware boot.
+
 ### Optional: Direct Hardware Boot
 
 Advanced users may choose to **boot Windows directly on the physical hardware**.
