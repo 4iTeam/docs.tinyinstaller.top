@@ -22,7 +22,7 @@ For most users, this method provides the **highest success rate** when installin
 
 ### Installation Mode
 
-Advanced users who are confident that their hardware is fully compatible with Windows may disable compatibility mode during installation.
+If you are confident that your server hardware is fully compatible with Windows, you can disable compatibility mode during installation.
 
 The default installation mode is `auto`, which automatically selects the most compatible method based on the detected environment.
 
