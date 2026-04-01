@@ -2,20 +2,20 @@
 
 ## Authenticating requests <a href="#authenticating-requests" id="authenticating-requests"></a>
 
-To authenticate requests, include an **`Authorization`** header with the value **`"Bearer {YOUR_LICENSE_KEY}"`**.
+To authenticate requests, include an **`Authorization`** header with the value **`"Bearer {YOUR_ACCESS_KEY}"`**.
 
-## Get license info
+## Get access info
 
 Request:\
 `GET` https://tinyinstaller.top/api/v1/my/info\
 Headers:\
-`Authorization`: `Bearer {YOUR_LICENSE_KEY}`
+`Authorization`: `Bearer {YOUR_ACCESS_KEY}`
 
 ### Get images
 
 `GET` https://tinyinstaller.top/api/v1/my/images\
 Headers:\
-`Authorization`: `Bearer {YOUR_LICENSE_KEY}`\
+`Authorization`: `Bearer {YOUR_ACCESS_KEY}`\
 Body Parameters:\
 `q`  Search keyword. Example win2012\
 `page` Pagination page. Example: 2
@@ -24,7 +24,7 @@ Body Parameters:\
 
 `GET`  https://tinyinstaller.top/api/v1/my/instances\
 Headers:\
-`Authorization`: `Bearer {YOUR_LICENSE_KEY}` \
+`Authorization`: `Bearer {YOUR_ACCESS_KEY}` \
 Body Parameters:\
 `ip_address` Filter by ip address. Example 123.123.123.123\
 `status` Filter by status, available statuses: new, wait\_for\_tiny, installing, installed, error, timed\_out, done\
@@ -35,7 +35,7 @@ Body Parameters:\
 
 `GET` https://tinyinstaller.top/api/v1/my/instances/{id}\
 Headers:\
-`Authorization`: `Bearer {YOUR_LICENSE_KEY}` \
+`Authorization`: `Bearer {YOUR_ACCESS_KEY}` \
 Url parameters:\
 `id` Instance id from list. Example: 22353604-ae4a-47b3-8d70-ef919a9445e2
 
@@ -43,4 +43,4 @@ Url parameters:\
 
 `POST` https://tinyinstaller.top/api/v1/my/key/regenerate\
 Headers:\
-`Authorization`: `Bearer {YOUR_LICENSE_KEY}`
+`Authorization`: `Bearer {YOUR_ACCESS_KEY}`
