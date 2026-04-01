@@ -3,8 +3,8 @@
 ## Install Command
 
 Parameters:\
-`setup_url`: Setup URL obtained from the \
-`key`: Setup key obtained from the [License Info Api](api-requests.md#get-license-info)
+`setup_url`: Setup URL obtained from the [Access Info Api](api-requests.md#get-access-info)\
+`key`: Setup key obtained from the [Access Info Api](api-requests.md#get-access-info)
 
 ### Base Command
 
